@@ -1,3 +1,3 @@
 # tutorialPageObject
 
-Acesse em: http://wp.me/p6R58P-5Q
+Acesse em: http://ricardomurad.com/2016/01/31/criando-testes-automatizados-com-selenium2-utilizando-o-padrao-page-object/
